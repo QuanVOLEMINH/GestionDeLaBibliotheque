@@ -1,0 +1,47 @@
+body {
+	width: 800px;
+	margin: 10px; 
+	padding: 0px; 
+ 	font-family: arial, helvetica, sans-serif;
+ 	color: #333333; 
+ 	background-color: #CCCCCC;
+}
+h1 {
+	font-size: 140%; 
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+	color: #2C3C6A;
+}
+h2 {
+	font-size: 120%; 
+	margin-top: 5px; 
+	margin-bottom: 0px; 
+	color: #2C3C6A; 
+}
+h3 {
+	font-size: 110%; 
+	margin-top: 5px; 
+	margin-bottom: 0px; 
+	color: #67676B;
+}
+h4 {
+	font-size: 100%; 
+	margin-top: 5px; 
+	margin-bottom: 5px; 
+	color: #67676B;
+}
+p, textarea, input, select, ul, ol, dl, blockquote {
+	font-size: 100%; 
+}
+p {
+	margin: 0px 0px 10px 0px; 
+}
+table {
+ 	background-color: #DDDDDD;
+	margin-left: 50px; 
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+	border-collapse: collapse;
+	font-size: 90%;
+	width: 700px;
+}
